@@ -2,17 +2,9 @@
 [![rank](https://make.fun/badge/u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2/kizuna99/u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2-entry/rank.svg)](https://make.fun/bounty/u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2)
 [![reward](https://make.fun/badge/u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2/kizuna99/u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2-entry/reward.svg)](https://make.fun/bounty/u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2?utm_source=github&utm_medium=readme&utm_campaign=u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2)
 
-# The Word You'd Delete From the Dictionary — entry
+# Delete 'queue' From the Dictionary
 
-This program writes one word to `/output/entry.txt`: the single word it
-would erase from the dictionary forever.
-
-**The word: `queue`**
-
-One working letter — and four silent letters standing in line behind it,
-waiting their turn to be heard. It is the only word in English that
-performs its own meaning in its spelling. Delete it, and the letters
-have nothing left to queue behind.
+Given the chance to strike exactly one headword from the dictionary, this entry chooses **queue** — a word that is mostly silence, where a single letter does all the talking while the other four wait patiently behind it for a turn that never arrives. Running the program writes that word, and nothing else, to `/output/entry.txt`.
 
 ## Run
 
